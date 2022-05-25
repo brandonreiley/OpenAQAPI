@@ -1,0 +1,16 @@
+Description:
+
+OpenAQAPI Program allows you to search for AQI measurements by looking up the country code or decimal-degree coordinates.
+
+Once the proper input is given, the program returns data in a JSON Array with JSON Objects for each location inside the array.
+
+The specific data I chose to return was only the data I saw necessary and relevant for creating a heat map.
+
+How to Run the Program:
+
+make sure java is installed on computer by running "java" in command line
+
+Once installed, open a command line where OpenAQAPI.jar is downloaded and run "java -jar OpenAQAPI.jar"
+
+This will run the jar file and give u a prompt to run through the program
+
